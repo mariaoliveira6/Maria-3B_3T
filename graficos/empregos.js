@@ -23,7 +23,7 @@ async function empregos() {
       plot_bgcolor: getCSS('--bg-color'),
       paper_bgcolor: getCSS('--bg-color'),
       title: {
-        text: 'Tipos de Ocupações (Trabalhos) pelo Mundo',
+        text: 'Artistas mais ouvidos 2024',
         font:{
             color: getCSS('--secundary-color'),
             family: getCSS('--font'),
@@ -32,7 +32,7 @@ async function empregos() {
       },
         xaxis: {
             title: {
-                text: 'Tipo de Ocupação',
+                text: 'Artistas',
                 font: {
                     color: getCSS('--secundary-color'),
                     family: getCSS('--font'),
