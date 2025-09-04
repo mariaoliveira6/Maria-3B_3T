@@ -46,7 +46,7 @@ async function empregos() {
         },
         yaxis: {
             title: {
-                text: 'Número de Empregos',
+                text: 'Número Artistas',
                 font: {
                     color: getCSS('--secundary-color'),
                     family: getCSS('--font'),
